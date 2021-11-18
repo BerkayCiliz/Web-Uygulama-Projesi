@@ -1,1 +1,1 @@
-Web uygulaması olarak giriş,kayıt ve crud işlemlerinin olduğu bir yapı
+Web uygulaması olarak php ve html kullanılarak yapılan giriş,kayıt ve crud işlemlerinin olduğu bir yapı
